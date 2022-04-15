@@ -300,12 +300,3 @@ input[type=text] {
 .copyright {
     font-size: 0.5rem;
 }
-@media (max-width: 768px) {
-    footer .container{
-        flex-direction: column;
-    }
-    footer .icons {
-        justify-content: center;
-    }
-
-}
